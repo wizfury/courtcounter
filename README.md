@@ -10,5 +10,9 @@ This too works for the app when a team scores a 2 pointer or a free throw. when 
 ![Screenshot_20221001_204904](https://user-images.githubusercontent.com/68225960/193417703-90e2b022-0281-42e9-be6d-9f2282be92eb.jpg)
 
 # Video showing the working of the App.
-Uploading video_20221001_213136_edit.mp4…
+
+
+
+
+https://user-images.githubusercontent.com/68225960/193418393-421a429d-1f0d-42bb-808b-49a5b7fd99e9.mp4
 
